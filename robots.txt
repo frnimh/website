@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://frnimh.me/sitemap.xml
